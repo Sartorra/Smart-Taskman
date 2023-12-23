@@ -25,6 +25,11 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run start-server`
+
+Builds the typescript into javascript in 'dist' and then runs `dist/server/main.js`.
+You can then open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 ## Tools Used
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
